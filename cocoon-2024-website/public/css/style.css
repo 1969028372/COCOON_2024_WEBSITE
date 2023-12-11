@@ -1,0 +1,17 @@
+.img-thumbnail {
+    border: none;
+}
+
+.sponsor-cell {
+    margin-top: 20px;
+    border-bottom: solid gray 0.5px;
+}
+
+.chair-cell {
+    border-bottom: solid gray 0.5px;
+    height: 175px;
+}
+
+.photo-cell {
+    max-height: 300px;
+}
